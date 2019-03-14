@@ -1,10 +1,4 @@
 #Groups
-  Family:
-    name: Osoby
-    entities:
-      - device_tracker.google_maps_user1
-      - device_tracker.google_maps_user2
-
   Security:
     name: Alarm
     entities:
