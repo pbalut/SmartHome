@@ -9,6 +9,7 @@ homeassistant:
 
 frontend:
 config:
+system_health:
 
 http:
   api_password: !secret http_password
