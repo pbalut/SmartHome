@@ -29,6 +29,9 @@ logbook:
 map:
 sun:
 
+hacs:
+  token: !secret github_token
+
 tts:
   platform: google_translate
   cache: true
